@@ -25,6 +25,8 @@ My main goal is to develop as a software developer with a strong foundation and 
 ## Projects
 This section will grow as I continue learning and building projects:
 
+1. Python basic calculator: https://github.com/Saray-GonzalezArca/calculator-python.git
+
 ## Languages
 1. Galician (native)
 2. Spanish (native)
