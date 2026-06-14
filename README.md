@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there 👋​
+## About Me
+I have recently finished my Bachillerato and I am currently preparing to start a degree in Software Engineering, with interest in universities in Oviedo or A Coruña.
 
-<!--
-**Saray-GonzalezArca/Saray-GonzalezArca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am at the beginning of my journey in programming, but I am motivated to keep learning and improving through consistent practice and personal projects.
 
-Here are some ideas to get you started:
+My main goal is to develop as a software developer with a strong foundation and a focus on building useful and meaningful applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am interested in:
+
+1. Mobile app development
+
+2. Video games
+
+3. Artificial intelligence
+
+4. Data analysis
+
+5. Software development in general
+
+## Programming Languages
+
+1. Basic Python
+
+## Projects
+This section will grow as I continue learning and building projects:
+
+## Languages
+1. Galician (native)
+2. Spanish (native)
+3. English (C1)
